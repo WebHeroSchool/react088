@@ -1,0 +1,17 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js",
+    "create": "touch index.js",
+    "delete":"rm -rf index.js",
+    "build": "mkdir build",
+    "say": "echo hello",
+    "deleteB": "rm -rf build"
+  },
+  "author": "",
+  "license": "ISC"
+}
