@@ -1,5 +1,5 @@
 {
-  "name": "react",
+  "name": "react088",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,14 @@
     "say": "echo hello",
     "deleteB": "rm -rf build"
   },
+  "repository": {
+   "type": "git",
+   "url": "git+https://github.com/WebHeroSchool/react088.git"
+   },
   "author": "",
-  "license": "ISC"
-}
+  "license": "ISC",
+  "bugs": {
+      "url": "https://github.com/WebHeroSchool/react088/issues"
+    },
+    "homepage": "https://github.com/WebHeroSchool/react088#readme"
+  }
